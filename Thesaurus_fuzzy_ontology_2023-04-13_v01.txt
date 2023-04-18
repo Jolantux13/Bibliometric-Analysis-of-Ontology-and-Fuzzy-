@@ -1,0 +1,38 @@
+label	replace by
+construction	development
+fuzzy ontologies	fuzzy ontology
+fuzzy sets	fuzzy set
+algorithm	
+algorithms	
+annotation	
+aggregation operators	aggregation
+consensus model	consensus
+context awareness	context
+decision-support-system	decision support system
+description logics	description logic
+design	
+expert-system	expert system
+fuzzy-logic	fuzzy logic
+fuzzy-sets	fuzzy set
+group decision-making	group decision making
+impact	
+information-retrieval	information retrieval
+internet of things	iot
+logic	
+logic for the semantic web	
+machine	
+model	
+models	
+networks	network
+ontologies	
+ontology	
+operators	
+recommender systems	recommender system
+risk	
+sets	
+support	
+system	
+systems	
+time	
+tool	
+trust	
